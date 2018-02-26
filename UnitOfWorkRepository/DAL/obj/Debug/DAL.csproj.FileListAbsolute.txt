@@ -1,0 +1,11 @@
+C:\Marco\Project\GitHub\UnitOfWorkRepository\UnitOfWorkRepository\DAL\bin\Debug\DAL.dll.config
+C:\Marco\Project\GitHub\UnitOfWorkRepository\UnitOfWorkRepository\DAL\bin\Debug\DAL.dll
+C:\Marco\Project\GitHub\UnitOfWorkRepository\UnitOfWorkRepository\DAL\bin\Debug\DAL.pdb
+C:\Marco\Project\GitHub\UnitOfWorkRepository\UnitOfWorkRepository\DAL\bin\Debug\EntityFramework.dll
+C:\Marco\Project\GitHub\UnitOfWorkRepository\UnitOfWorkRepository\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Marco\Project\GitHub\UnitOfWorkRepository\UnitOfWorkRepository\DAL\bin\Debug\EntityFramework.xml
+C:\Marco\Project\GitHub\UnitOfWorkRepository\UnitOfWorkRepository\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Marco\Project\GitHub\UnitOfWorkRepository\UnitOfWorkRepository\DAL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Marco\Project\GitHub\UnitOfWorkRepository\UnitOfWorkRepository\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Marco\Project\GitHub\UnitOfWorkRepository\UnitOfWorkRepository\DAL\obj\Debug\DAL.dll
+C:\Marco\Project\GitHub\UnitOfWorkRepository\UnitOfWorkRepository\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,13 @@
+C:\Marco\Project\GitHub\UnitOfWorkRepository\UnitOfWorkRepository\UnitOfWork.Console\bin\Debug\UnitOfWork.Console.exe.config
+C:\Marco\Project\GitHub\UnitOfWorkRepository\UnitOfWorkRepository\UnitOfWork.Console\bin\Debug\UnitOfWork.Console.exe
+C:\Marco\Project\GitHub\UnitOfWorkRepository\UnitOfWorkRepository\UnitOfWork.Console\bin\Debug\UnitOfWork.Console.pdb
+C:\Marco\Project\GitHub\UnitOfWorkRepository\UnitOfWorkRepository\UnitOfWork.Console\bin\Debug\DAL.dll
+C:\Marco\Project\GitHub\UnitOfWorkRepository\UnitOfWorkRepository\UnitOfWork.Console\bin\Debug\EntityFramework.dll
+C:\Marco\Project\GitHub\UnitOfWorkRepository\UnitOfWorkRepository\UnitOfWork.Console\bin\Debug\DAL.pdb
+C:\Marco\Project\GitHub\UnitOfWorkRepository\UnitOfWorkRepository\UnitOfWork.Console\bin\Debug\EntityFramework.xml
+C:\Marco\Project\GitHub\UnitOfWorkRepository\UnitOfWorkRepository\UnitOfWork.Console\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Marco\Project\GitHub\UnitOfWorkRepository\UnitOfWorkRepository\UnitOfWork.Console\obj\Debug\UnitOfWork.Console.csprojResolveAssemblyReference.cache
+C:\Marco\Project\GitHub\UnitOfWorkRepository\UnitOfWorkRepository\UnitOfWork.Console\obj\Debug\UnitOfWork.Console.exe
+C:\Marco\Project\GitHub\UnitOfWorkRepository\UnitOfWorkRepository\UnitOfWork.Console\obj\Debug\UnitOfWork.Console.pdb
+C:\Marco\Project\GitHub\UnitOfWorkRepository\UnitOfWorkRepository\UnitOfWork.Console\bin\Debug\EntityFramework.SqlServer.dll
+C:\Marco\Project\GitHub\UnitOfWorkRepository\UnitOfWorkRepository\UnitOfWork.Console\bin\Debug\EntityFramework.SqlServer.xml
